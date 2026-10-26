@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "reviewer": "Ahmad",
+        "rating": 5,
+        "comment": "Excellent wireless mouse"
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "reviewer": "Siti",
+        "rating": 4,
+        "comment": "Good quality and easy to use"
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "reviewer": "John",
+        "rating": 5,
+        "comment": "Great mechanical keyboard"
+    }
+]

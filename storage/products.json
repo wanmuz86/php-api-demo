@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse",
+        "price": 59.9,
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "description": "RGB mechanical keyboard",
+        "price": 199,
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "name": "USB-C Hub",
+        "description": "Multiport USB-C adapter",
+        "price": 89,
+        "stock": 40
+    }
+]
